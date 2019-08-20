@@ -1,4 +1,4 @@
-^out/
-^\.metals/
-^\.bloop/
+/out/
+/.metals/
+/.bloop/
 
